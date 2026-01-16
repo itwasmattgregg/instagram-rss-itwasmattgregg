@@ -4,8 +4,16 @@
     <title>itwasmattgregg&apos;s Instagram RSS Feed</title>
     <description>Personal Instagram RSS feed for itwasmattgregg</description>
     <link>https://github.com/itwasmattgregg/instagram-rss-itwasmattgregg</link>
-    <lastBuildDate>Fri, 16 Jan 2026 19:37:24 GMT</lastBuildDate>
-    <pubDate>Fri, 16 Jan 2026 19:37:24 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 19:38:00 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 19:38:00 GMT</pubDate>
     <generator>Insta RSS</generator>
+    <item>
+      <title>CATS</title>
+      <description>CATS</description>
+      <guid isPermaLink="false">2026-01-1768592280896</guid>
+      <pubDate>Fri, 16 Jan 2026 19:37:59 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/itwasmattgregg/instagram-rss-itwasmattgregg/main/posts/2026/01/1768592272974-3af44566.jpeg" type="image/jpeg"/>
+      <image:url>https://raw.githubusercontent.com/itwasmattgregg/instagram-rss-itwasmattgregg/main/posts/2026/01/1768592272974-3af44566.jpeg</image:url>
+    </item>
   </channel>
 </rss>
